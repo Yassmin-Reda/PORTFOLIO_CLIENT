@@ -8,7 +8,7 @@ export default function AboutIntro() {
         <div className="relative">
           <div className="absolute -inset-3 rounded-[2rem] bg-grad-primary opacity-30 blur-2xl" aria-hidden="true" />
           <img
-            src="https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=900&auto=format&fit=crop"
+            src="public\Coding.svg"
             alt="Alex Carter working at a laptop"
             loading="lazy"
             className="relative w-full h-[420px] object-cover rounded-[2rem] border border-edge shadow-soft"
